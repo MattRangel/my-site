@@ -1,0 +1,7 @@
+ul {
+  list-style: url(../images/star.svg);
+}
+
+#obsolete a:first-of-type {
+  text-decoration: line-through underline;
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Quaaykop;
+  src: url("../fonts/quaaykop/Quaaykop.otf") format("opentype");
+}
+
+body {
+  font-family: Quaaykop;
+  font-size: 1.5em;
+  background-color: #c1ecc1;
+}
+
+a:link, a:visited, a:hover {
+  color: black;
+}
+
+a:active {
+  color: #1b982c;
+}
+

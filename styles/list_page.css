@@ -1,0 +1,11 @@
+h2, p, ul {
+  margin: 16px 0;
+}
+
+a, a:hover, a:visited {
+  color: black
+}
+
+a:active {
+  color: #1b982c;
+}

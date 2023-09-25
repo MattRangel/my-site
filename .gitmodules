@@ -1,0 +1,15 @@
+[submodule "web-apps/batch-hue-shifter"]
+	path = web-apps/batch-hue-shifter
+	url = https://github.com/MattRangel/batch-hue-shifter
+[submodule "web-apps/empty-iphone-icons"]
+	path = web-apps/empty-iphone-icons
+	url = https://github.com/MattRangel/empty-iphone-icons
+[submodule "web-apps/submerge-web"]
+	path = web-apps/submerge-web
+	url = https://github.com/MattRangel/submerge-web
+[submodule "web-apps/insta-dm-extract"]
+	path = web-apps/insta-dm-extract
+	url = https://github.com/MattRangel/insta-dm-extract
+[submodule "web-apps/minecraft-calcs"]
+	path = web-apps/minecraft-calcs
+	url = https://github.com/MattRangel/minecraft-calcs
